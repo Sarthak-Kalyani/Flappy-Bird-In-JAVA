@@ -1,2 +1,3 @@
 # Flappy-Bird-In-JAVA
 A flappy bird game in java...
+Author - Sarthak Kalyani
