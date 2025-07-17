@@ -1,0 +1,19 @@
+// Source code is decompiled from a .class file using FernFlower decompiler.
+import java.awt.Component;
+import javax.swing.JFrame;
+
+public class App {
+   public App() {
+   }
+
+   public static void main(String[] var0) throws Exception {
+      short var1 = 360;
+      short var2 = 640;
+      JFrame var3 = new JFrame("Flappy Bird");
+      var3.setVisible(true);
+      var3.setSize(var1, var2);
+      var3.setLocationRelativeTo((Component)null);
+      var3.setResizable(false);
+      var3.setDefaultCloseOperation(3);
+   }
+}
