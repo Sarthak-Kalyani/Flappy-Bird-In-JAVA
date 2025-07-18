@@ -1,3 +1,5 @@
+package Code;
+
 import javax.swing.*;
 
 public class App {
@@ -10,7 +12,6 @@ public class App {
         frame.setLocationRelativeTo(null);
         frame.setResizable(false);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
         FlappyBird flappyBird = new FlappyBird();
         frame.add(flappyBird);
         frame.pack();

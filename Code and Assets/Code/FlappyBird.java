@@ -1,3 +1,4 @@
+package Code;
 import java.awt.*;
 import java.awt.event.*;
 import java.util.ArrayList;
@@ -71,11 +72,13 @@ public class FlappyBird extends JPanel implements ActionListener, KeyListener {
         addKeyListener(this);
 
         //Load images
-        backgroundImg = new ImageIcon(getClass().getResource("./flappybirdbg.png")).getImage();
-        birdImg = new ImageIcon(getClass().getResource("./flappybird.png")).getImage();
-        topPipeImg = new ImageIcon(getClass().getResource("./toppipe.png")).getImage();
-        bottomPipeImg = new ImageIcon(getClass().getResource("./bottompipe.png")).getImage();
+        String assetPath = "Code and Assets/Assets/";
+        backgroundImg = new ImageIcon(assetPath + "flappybirdbg.png").getImage();
+        birdImg       = new ImageIcon(assetPath + "flappybird.png").getImage();
+        topPipeImg    = new ImageIcon(assetPath + "toppipe.png").getImage();
+        bottomPipeImg = new ImageIcon(assetPath + "bottompipe.png").getImage();
 
+       
         //bird
         bird = new Bird(birdImg);
         pipes = new ArrayList<Pipe>();
