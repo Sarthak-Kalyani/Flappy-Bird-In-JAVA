@@ -17,6 +17,13 @@ This project is a fun implementation of basic game development concepts such as 
 - **Java Swing** for GUI
 - **VS Code** as IDE
 
+## 👨‍💻 Author
+
+**Sarthak Kalyani**  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/sarthak-kalyani-213a192b9)  
+🐙 [GitHub Profile](https://github.com/Sarthak-Kalyani)
+
+
 
 ## 📁 Project Structure
 
@@ -34,13 +41,7 @@ FlappyBird/
 
 💡 Tip
 Want to improve it? Try adding:
-
-Sound effects
-
-Difficulty levels
-
-High score saving with file handling
-
-Game restart functionality
-
-
+1. Sound effects
+2. Difficulty levels
+3. High score saving with file handling
+4. Game restart functionality
