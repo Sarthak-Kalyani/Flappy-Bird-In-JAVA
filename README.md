@@ -27,7 +27,6 @@ This project is a fun implementation of basic game development concepts such as 
 
 ## 📁 Project Structure
 
-```bash
 FlappyBird/
 ├── Code and Assets/
 │   ├── Assets/
