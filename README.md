@@ -1,25 +1,45 @@
-HEAD
-## Getting Started
+# Flappy Bird in Java 🎮🐤
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple **Flappy Bird clone** built using **Java Swing** for the GUI and game logic.  
+This project is a fun implementation of basic game development concepts such as animation, collision detection, key event handling, and object movement.
 
-## Folder Structure
+## 🚀 Features
 
-The workspace contains two folders by default, where:
+- Classic Flappy Bird gameplay
+- Pixel-style graphics
+- Smooth controls using the keyboard (Spacebar)
+- Score tracking system
+- Pipe spawning with random heights
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🛠️ Built With
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- **Java** (Core Java concepts)
+- **Java Swing** for GUI
+- **VS Code** as IDE
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 📁 Project Structure
 
-## Dependency Management
+FlappyBird/
+├── Code and Assets/
+│ ├── Assets/
+│ │ ├── flappybird.png
+│ │ ├── bottompipe.png
+│ │ ├── toppipe.png
+│ │ └── flappybirdbg.png
+│ └── Main.java (or your main class file)
+├── README.md
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+🎮 Controls
+Spacebar — Make the bird jump
 
-# Flappy-Bird-In-JAVA
-A flappy bird game in Java.
-<br>
-Author - Sarthak Kalyani
-69bb74f82385b795471ffaa17bec3dc69c6534dd
+👨‍💻 Author
+Sarthak Kalyani
+📧 LinkedIn
+🔗 GitHub Profile
+
+💡 Tip
+Want to improve it? Try adding:
+1.Sound effects
+2.Difficulty levels
+3.High score saving with file handling
+4.Game restart functionality
