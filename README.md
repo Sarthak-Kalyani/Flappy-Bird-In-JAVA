@@ -17,29 +17,30 @@ This project is a fun implementation of basic game development concepts such as 
 - **Java Swing** for GUI
 - **VS Code** as IDE
 
+
 ## 📁 Project Structure
 
+```bash
 FlappyBird/
 ├── Code and Assets/
-│ ├── Assets/
-│ │ ├── flappybird.png
-│ │ ├── bottompipe.png
-│ │ ├── toppipe.png
-│ │ └── flappybirdbg.png
-│ └── Main.java (or your main class file)
+│   ├── Assets/
+│   │   ├── flappybird.png
+│   │   ├── bottompipe.png
+│   │   ├── toppipe.png
+│   │   └── flappybirdbg.png
+│   └── Main.java
+├── .gitignore
 ├── README.md
-
-🎮 Controls
-Spacebar — Make the bird jump
-
-👨‍💻 Author
-Sarthak Kalyani
-📧 LinkedIn
-🔗 GitHub Profile
 
 💡 Tip
 Want to improve it? Try adding:
-1.Sound effects
-2.Difficulty levels
-3.High score saving with file handling
-4.Game restart functionality
+
+Sound effects
+
+Difficulty levels
+
+High score saving with file handling
+
+Game restart functionality
+
+
