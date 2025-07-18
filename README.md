@@ -24,20 +24,6 @@ This project is a fun implementation of basic game development concepts such as 
 🐙 [GitHub Profile](https://github.com/Sarthak-Kalyani)
 
 
-
-## 📁 Project Structure
-
-FlappyBird/
-├── Code and Assets/
-│   ├── Assets/
-│   │   ├── flappybird.png
-│   │   ├── bottompipe.png
-│   │   ├── toppipe.png
-│   │   └── flappybirdbg.png
-│   └── Main.java
-├── .gitignore
-├── README.md
-
 💡 Tip
 Want to improve it? Try adding:
 1. Sound effects
